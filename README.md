@@ -230,7 +230,9 @@ This PoC maps cleanly to production systems:
 ## 👤 Author
 
 **Atabak (Austin) Eghbal**
+
 Machine Learning Engineer / Researcher
+
 Focus: Medical AI, Computer Vision, MLOps
 
 ---
