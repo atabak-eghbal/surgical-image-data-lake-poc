@@ -1,0 +1,8 @@
+boto3
+numpy
+pandas
+pillow
+matplotlib
+torch
+tqdm
+
