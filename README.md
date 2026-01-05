@@ -142,7 +142,7 @@ surgical-image-data-lake-poc/
     └── slides/
         ├── technical_deck.pptx
         └── business_deck.pptx
-
+```
 ## 🚀 Quick Start (Colab)
 
 1. **Clone the repository**
